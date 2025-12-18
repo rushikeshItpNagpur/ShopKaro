@@ -21,3 +21,11 @@ functionalit
 
 login/sup
 
+form 
+
+title
+price
+description
+image url
+category
+rating
